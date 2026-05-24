@@ -8,7 +8,7 @@
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://netlify.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
 > Aplicación web fullstack diseñada para entrenadores personales que quieren gestionar clientes, rutinas y seguimiento de progreso desde un único lugar.
 
@@ -41,23 +41,23 @@
 
 | Login | Dashboard Admin | Clientes |
 |:---:|:---:|:---:|
-| <img width="220" src="https://github.com/user-attachments/assets/d693d94a-5600-4049-b9e9-ae61d1715c73" /> | <img width="220" src="https://github.com/user-attachments/assets/32d8b8e1-ed6f-44e7-a9c0-517bf0d68531" /> | <img width="220" src="https://github.com/user-attachments/assets/5ec0e191-8299-4b77-9b5c-b51fd09b4f95" /> |
+| <img width="220" src="https://github.com/user-attachments/assets/11cb6857-71f2-4f27-b547-50d7ee906f07" /> | <img width="220" src="https://github.com/user-attachments/assets/c66046bf-dbc6-4a65-94ce-a9cf3a7247ad" /> | <img width="220" src="https://github.com/user-attachments/assets/13609c28-a2a1-4e42-a8bd-207e19c75f5a" /> |
 
 | Detalle de Cliente | Notas | Galería de Archivos |
 |:---:|:---:|:---:|
-| <img width="220" src="https://github.com/user-attachments/assets/d8674c4b-fed0-4b09-8756-8bfebf81a259" /> | <img width="220" src="https://github.com/user-attachments/assets/bce62a10-4038-4b44-b1c6-7983b29c1a5b" /> | <img width="220" src="https://github.com/user-attachments/assets/7881089f-15a0-4e6d-9e16-b15a43bf9d9a" /> |
+| <img width="220" src="https://github.com/user-attachments/assets/0fa9f644-feb4-4631-8d81-77074959d013" /> | <img width="220" src="https://github.com/user-attachments/assets/71c02b11-6b23-4cde-9f89-4cb66cdfa33d" /> | <img width="220" src="https://github.com/user-attachments/assets/1a56a9b7-6b24-48c3-95c3-e9526ac56e6f" /> |
 
 | Visualizador de Media | Rutinas | Crear Rutina |
 |:---:|:---:|:---:|
-| <img width="220" src="https://github.com/user-attachments/assets/40f38b56-36fb-430b-be92-f25b8fbc25c6" /> | <img width="220" src="https://github.com/user-attachments/assets/fc7b9e9d-081f-434f-9a32-679b79bc2bc1" /> | <img width="220" src="https://github.com/user-attachments/assets/3566ac30-d5af-4778-960c-e3a7b6fa34cd" /> |
+| <img width="220" src="https://github.com/user-attachments/assets/e0012b43-9736-4691-a3e6-85953aa00015" /> | <img width="220" src="https://github.com/user-attachments/assets/84e1e980-ba84-4638-bacd-dc1d66182c92" /> | <img width="220" src="https://github.com/user-attachments/assets/b6d9992a-40d8-466a-bfe6-1d2665432fa0" /> |
 
 | Fotos y Videos | Visualizador Galería | Dashboard Cliente |
 |:---:|:---:|:---:|
-| <img width="220" src="https://github.com/user-attachments/assets/33be80b3-c018-410d-884a-ed838c872392" /> | <img width="220" src="https://github.com/user-attachments/assets/51dbc1a7-cfbe-4d19-8801-2bcf565cff19" /> | <img width="220" src="https://github.com/user-attachments/assets/b21eae98-b805-434a-930a-eac5b0cd5a45" /> |
+| <img width="220" src="https://github.com/user-attachments/assets/87b74336-8c54-47ef-af32-9347101005ca" /> | <img width="220" src="https://github.com/user-attachments/assets/ec3558d8-5a86-400b-a851-a6f9475b51c6" /> | <img width="220" src="https://github.com/user-attachments/assets/a3d51858-56c2-4898-b910-12deeaf17b1f" /> |
 
 | Rutina Asignada | Subir Progreso |
 |:---:|:---:|
-| <img width="220" src="https://github.com/user-attachments/assets/fe8bad1f-c05d-429d-8380-1db1fc2eec9a" /> | <img width="220" src="https://github.com/user-attachments/assets/ae2a797d-7db6-4918-b4df-5076f46ede69" /> |
+| <img width="220" src="https://github.com/user-attachments/assets/63308a80-57d1-4bc4-90a9-3b7c9a1a5c5e" /> | <img width="220" src="https://github.com/user-attachments/assets/9cf41210-7f61-40cd-a528-e84e729f89e8" /> |
 
 </div>
 

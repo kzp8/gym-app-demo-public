@@ -12,7 +12,7 @@
 
 > Aplicación web fullstack diseñada para entrenadores personales que quieren gestionar clientes, rutinas y seguimiento de progreso desde un único lugar.
 
-**[🚀 Ver Demo en vivo](https://gym-app-public-demo.netlify.app/)**
+**[🚀 Ver Demo en vivo](https://vercel.com/david-rus-projects/gym-app-demo/5iCBjA5YYcF4eyuvHRJAgHaAHB2r)**
 
 ```markdown
 ## 🔑 Credenciales de Demo

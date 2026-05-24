@@ -24,6 +24,9 @@
 | 👑 **Administrador** | `admin@admin.com` | `admin1234` |
 | 👤 **Cliente 1** | `clientedemo1@demo.com` | `clientedemo1` |
 | 👤 **Cliente 2** | `clientedemo2@demo.com` | `clientedemo2` |
+
+|👤 **Cliente 2** actualmente esta desactivado|
+
 ```
 
 

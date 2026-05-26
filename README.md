@@ -12,7 +12,7 @@
 
 > Aplicación web fullstack diseñada para entrenadores personales que quieren gestionar clientes, rutinas y seguimiento de progreso desde un único lugar.
 
-**[🚀 Ver Demo en vivo](https://project-4sesk.vercel.app/)**
+**[🚀 Ver Demo en vivo](https://gymappdemo.davidrus.dev/)**
 
 ```markdown
 ## 🔑 Credenciales de Demo
